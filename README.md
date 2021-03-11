@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> 👋 Welcome to my Github profile.
+## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome to my Github profile.
 
 7 years of great Frontend experience with including but not limited to React/Redux, Vue/Vuex, TypeScript, ES5/6, jQuery, JavaScript, CSS/CSS3, SCSS, LESS, HTML5, Bootstrap4.
 5 years of professional solid Backend experience with Python(Django, Flask), PHP(Laravel, CodeIgniter), Next.js, Nuxt.js, Express
