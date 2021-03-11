@@ -38,7 +38,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
 
-As a full-time dedicated, responsive and reliable professional, I can provide as followings:
+## As a full-time dedicated, responsive and reliable professional, I can provide as followings:
 - ✨ Converting bespoke UI/UX design(PSD, Figma or so) to pixel perfect and mobile responsive web pages. to pixel perfect and mobile responsive web pages.
 - ✨ Enhancing and modifying existing UI and Backend features as needed.
 - ✨ Building new Ecommerce websites and customizing certain pages like product page, homepage, shipping and order solution to fit your needs and to be appealing from customers
