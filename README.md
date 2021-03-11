@@ -8,7 +8,7 @@ My nick name is GoodIdea.<br>
 To create powerful solution rapidly, I'm focusing on the architecture of the app, clean code, product design, continuous integration, task prioritization, automatic deployment. 
 Always I'm pursuing a perfect result, clean code, and on-time delivery as my goal and embrace new tech and everyone’s opinion is welcome and expected anytime.
 - 💬 Ask me anything, you are welcome anytime.
-- 📫 How to reach me: [Skype](live:.cid.21ce48dc8bfd4854), [Email](mailto:hoperay1114@gmail.com)
+- 📫 How to reach me: [Skype](https://join.skype.com/invite/kR99U41qpndy), [Email](mailto:hoperay1114@gmail.com)
 
 
 ### Skills and Tools:
