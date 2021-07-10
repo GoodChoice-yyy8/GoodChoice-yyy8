@@ -34,9 +34,6 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <br><br>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
-</p>
 
 ## As a full-time dedicated, responsive and reliable professional, I can provide as followings:
 - ✨ Converting bespoke UI/UX design(PSD, Figma or so) to pixel perfect and mobile responsive web pages. to pixel perfect and mobile responsive web pages.
@@ -49,5 +46,5 @@
 - ✨ Guarantee of quality of codes and good comment.
 - ✨ Fast communication.
 
-I look forward to working with you very soon.
-Thank you for your time and consideration.
+I look forward to working with you.
+Please give me a shout!
